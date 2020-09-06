@@ -1,0 +1,15 @@
+entries:
+  - title: info
+    url: false
+    entries:
+      - title: 
+        url: false
+  
+  - title: games
+    url: false
+    entries:
+
+  - title: posts
+    post_list: true
+    url: false
+    entries: false
